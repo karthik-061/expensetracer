@@ -1,0 +1,110 @@
+[
+  {
+    "id": "exp-1727701001",
+    "title": "Apartment Rent",
+    "amount": 1450.00,
+    "category": "Housing",
+    "date": "2026-09-01",
+    "paymentMethod": "Bank Transfer",
+    "notes": "Monthly residential apartment lease payment"
+  },
+  {
+    "id": "exp-1727701002",
+    "title": "Whole Foods Market",
+    "amount": 164.75,
+    "category": "Food & Dining",
+    "date": "2026-09-03",
+    "paymentMethod": "Credit Card",
+    "notes": "Weekly organic groceries & pantry restock"
+  },
+  {
+    "id": "exp-1727701003",
+    "title": "Metro Pass & Transit Card",
+    "amount": 95.00,
+    "category": "Transportation",
+    "date": "2026-09-05",
+    "paymentMethod": "Debit Card",
+    "notes": "Monthly subway and bus pass"
+  },
+  {
+    "id": "exp-1727701004",
+    "title": "Electric & Water Utility",
+    "amount": 142.30,
+    "category": "Utilities",
+    "date": "2026-09-08",
+    "paymentMethod": "Bank Transfer",
+    "notes": "ConEd utility bill"
+  },
+  {
+    "id": "exp-1727701005",
+    "title": "Dinner at Bistro Bella",
+    "amount": 88.50,
+    "category": "Food & Dining",
+    "date": "2026-09-12",
+    "paymentMethod": "Credit Card",
+    "notes": "Weekend dinner with friends"
+  },
+  {
+    "id": "exp-1727701006",
+    "title": "High-Speed Fiber Internet",
+    "amount": 69.99,
+    "category": "Utilities",
+    "date": "2026-09-14",
+    "paymentMethod": "Credit Card",
+    "notes": "Gigabit home connection"
+  },
+  {
+    "id": "exp-1727701007",
+    "title": "Cinema & IMAX Tickets",
+    "amount": 42.00,
+    "category": "Entertainment",
+    "date": "2026-09-16",
+    "paymentMethod": "Credit Card",
+    "notes": "Sci-Fi movie premiere with popcorn"
+  },
+  {
+    "id": "exp-1727701008",
+    "title": "Pharmacy & Vitamins",
+    "amount": 54.20,
+    "category": "Healthcare",
+    "date": "2026-09-18",
+    "paymentMethod": "Debit Card",
+    "notes": "Prescription refill and daily multivitamins"
+  },
+  {
+    "id": "exp-1727701009",
+    "title": "Nike Running Shoes",
+    "amount": 135.00,
+    "category": "Shopping",
+    "date": "2026-09-21",
+    "paymentMethod": "Credit Card",
+    "notes": "New road running sneakers on discount"
+  },
+  {
+    "id": "exp-1727701010",
+    "title": "Specialty Coffee Roasters",
+    "amount": 28.50,
+    "category": "Food & Dining",
+    "date": "2026-09-24",
+    "paymentMethod": "Apple Pay",
+    "notes": "Cold brew and fresh Colombian espresso beans"
+  },
+  {
+    "id": "exp-1727701011",
+    "title": "Weekend Train Trip",
+    "amount": 120.00,
+    "category": "Travel",
+    "date": "2026-09-27",
+    "paymentMethod": "Credit Card",
+    "notes": "Round-trip coastal train express ticket"
+  },
+  {
+    "id": "exp-1727701012",
+    "title": "Online Tech Course",
+    "amount": 79.99,
+    "category": "Education & Self-Care",
+    "date": "2026-09-29",
+    "paymentMethod": "Credit Card",
+    "notes": "Full-stack cloud architecture certification module"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker-system",
+  "version": "1.0.0",
+  "description": "Modern full-stack Expense Tracker System with real-time budget management, analytics, and data persistence",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "expense-tracker",
+    "budget",
+    "finance",
+    "express",
+    "chartjs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

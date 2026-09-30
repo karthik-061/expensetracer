@@ -1,0 +1,16 @@
+{
+  "monthlyBudget": 5000,
+  "currency": "$",
+  "categories": {
+    "Housing": 1600,
+    "Food & Dining": 800,
+    "Transportation": 450,
+    "Utilities": 300,
+    "Entertainment": 350,
+    "Healthcare": 250,
+    "Shopping": 500,
+    "Travel": 400,
+    "Education & Self-Care": 250,
+    "Others": 100
+  }
+}
